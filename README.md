@@ -1,6 +1,7 @@
 # Hello-World
 
 Hello Word
+
 Este é um breve guia sobre como executar a aplicação Spring Boot do projeto.
 
 ## Explicado o Desafio
@@ -9,15 +10,13 @@ Este é um breve guia sobre como executar a aplicação Spring Boot do projeto.
 
 **Tarefa:** *Seu desafio é criar uma API RESTfull simples que retorne um objeto JSON com a chave “mensagem” e o valor “Olá, Mundo!” quando acessada via GET na rota raiz (“/”). Você tem a liberdade de escolher a tecnologia que desejar para implementar esta API.*
 
-**Entrega:** *Forneça o link do repositório no forms: https://forms.gle/FDdj1s6v6nRG5YQi9 e informe o passo a passo para executar o seu código !*
-
-**Avaliação:** *Seu trabalho será avaliado com base na precisão (o código faz o que deveria fazer?), organização/clareza do código.*
-
 ## Pré-requisitos
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
 Git
+
 Java Development Kit (JDK)
+
 Maven
 
 ## Clonando o Repositório
